@@ -1,0 +1,75 @@
+@media (max-width: 768px) {
+    .introduction{
+        height: 675px;
+    }
+
+    .introduction h1 {
+        font-size: 30px;
+    }
+
+    .introduction input {
+        font-size: 16px;
+        width: 90%;
+    }
+
+    .introduction button {
+        font-size: 16px;
+    }
+
+    .container img {
+        width: 60%; /* Adjust width as needed */
+    }
+
+    .container ul li{
+        width: auto;
+        height: auto;
+    }
+
+    .containerAtleta {
+        width: 80vw;
+    }
+
+    .players h1 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .introduction{
+        height: 675px;
+    }
+
+    .introduction h1 {
+        font-size: 24px;
+    }
+
+    .introduction input {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .introduction button {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .container img {
+        width: 40%; /* Adjust width as needed */
+    }
+
+    .players {
+        padding: 10px;
+    }
+
+    .containerAtleta {
+        width: 90vw; /* Adjust width as needed */
+    }
+
+    .players p {
+        font-size: 14px;
+    }
+
+    footer p, footer a {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.introduction{
+    height: 660px;
+    max-height: auto;
+    width: 100%;
+    background-color: #dedada;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.introduction input{
+    width: 40%;
+    height: 45px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.introduction button{
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: rgb(24, 24, 91);
+    color: #fff;
+    margin: 20px 0;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.introduction button:hover{
+    color: #000;
+    background-color: #fff;
+}
+
+.introduction h1{
+    font-size: 40px;
+    margin-top: 5%;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.introduction,
+.container .players{
+    padding: 0 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    width: 100%;
+}
+
+.container ul li{
+    margin: 20px;
+    width: 100%;
+    max-width: 700px;
+    height: 350px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    list-style-type: none;
+}
+
+.container img{
+    width: 50% ;
+    min-width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.containerAtleta {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    background-color: #f4f4f457;
+    border-radius: 8px;
+}
+
+.container .containerAtleta .players{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    text-align: justify;
+    background-color: #f4f4f4;
+    overflow: hidden;
+}
+
+.container .containerAtleta .players p{
+    margin: 5px 0;
+    line-height: 1.5;
+}
+
+.hide{
+    display: none;
+}
+
+footer{
+    width: 100%;
+    height: 3.5vw;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+footer p,
+footer a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0;
+}
+
+footer a{
+    color: rgb(46, 46, 152);
+}
