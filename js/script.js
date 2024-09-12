@@ -37,7 +37,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Atletismo",
         descricao: "Alison dos Santos, também conhecido como 'Piu', é um dos principais nomes do atletismo brasileiro e medalhista olímpico nos 400m com barreiras.",
-        img: "img/alison_dos_santos.jpg"
+        img: "img/Alison_dos_Santos.jpg"
     },
     { 
         nome: "Rebeca Andrade",
@@ -45,7 +45,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Ginástica Artística",
         descricao: "Rebeca Andrade é uma das maiores ginastas brasileiras da história, conquistando medalhas de ouro e prata nas Olimpíadas de Tóquio em 2021.",
-        img: "img/rebeca_andrade.jpg"
+        img: "img/Rebeca_Andrade.jpg"
     },
     { 
         nome: "Maurren Maggi",
@@ -53,7 +53,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Atletismo",
         descricao: "Maurren Maggi é uma atleta brasileira que conquistou a medalha de ouro no salto em distância nas Olimpíadas de 2008, sendo uma referência no esporte nacional.",
-        img: "img/maurren_maggi.jpg"
+        img: "img/Maurren_Maggi.jpg"
     },
     { 
         nome: "Daiane dos Santos",
@@ -61,7 +61,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Ginástica Artística",
         descricao: "Daiane dos Santos foi a primeira ginasta brasileira a conquistar uma medalha de ouro em um Campeonato Mundial, sendo uma das pioneiras da ginástica no Brasil.",
-        img: "img/daiane_dos_santos.jpg"
+        img: "img/Daiane_dos_Santos.jpg"
     },
     { 
         nome: "Adriana Araújo",
@@ -77,7 +77,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Judô",
         descricao: "Rafaela Silva é uma judoca brasileira que conquistou o ouro nas Olimpíadas de 2016, sendo uma das principais referências do judô feminino no Brasil.",
-        img: "img/rafaela.jpg"
+        img: "img/Rafaela.jpg"
     },
     { 
         nome: "Tandara Caixeta",
@@ -85,7 +85,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Vôlei",
         descricao: "Tandara é uma jogadora de vôlei brasileira com uma carreira brilhante, tendo conquistado diversos títulos pela Seleção Brasileira, incluindo o ouro olímpico em Londres 2012.",
-        img: "img/tandara_caixeta.jpg"
+        img: "img/Tandara_Caixeta.jpg"
     },
     { 
         nome: "Giba",
@@ -93,7 +93,7 @@ const atletas = [
         nacionalidade: "Brasil",
         esporte: "Vôlei",
         descricao: "Giba é considerado um dos maiores jogadores de vôlei de todos os tempos, tendo sido peça fundamental em várias conquistas da Seleção Brasileira de Vôlei Masculino.",
-        img: "img/giba.jpg"
+        img: "img/Giba.jpg"
     },
     { 
         nome: "Vinicius Junior",
