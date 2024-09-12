@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Leapis;
+    src: url(../fonts/Merriweather-Italic.ttf);
+}
+
+body{
+    font-family: Leapis;
+}
+
+
 @media (max-width: 768px) {
     .introduction{
         height: 675px;
